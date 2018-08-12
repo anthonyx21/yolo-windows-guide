@@ -14,5 +14,5 @@ open build/darknet/darknet.sln with VS 2017
 
 clean and build
 
-
+when running darknet.exe ensure you are in a command prompt windows launched as an adminstrator
 
